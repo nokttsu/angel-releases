@@ -18,7 +18,7 @@ Angel shows your party's damage in AION 2 as you fight: in its own window, and i
 
 - **Meter.** Every player's damage, DPS, healing and share, by the second and by skill. Boss fights are kept, with your best time per dungeon boss.
 - **Overlay.** Over the game and out of its way: your party's bars in a fight with your record marked under your own, your pet's souls while you farm, your opponent and your chance in PvP.
-- **DPS tests.** Hit a training dummy and the fight is kept as a test; give it a length (1–5 min) and it ends on the dot, against your record on that dummy.
+- **DPS tests.** Hit a training dummy and the fight is kept as a test; give it a length (1–5 min) and it ends on the dot, against your record on that dummy, with your DPS at 30 s, 1, 2… 5 min under the bars.
 - **PvP.** Each encounter that ends in a death is kept: how it went, exchange by exchange, and the key moments.
 - **Events, pets and cubes.** Timers for the events you follow, your pet collection with where each soul drops, and a radar for hidden cubes.
 - **Profiles.** A player's gear, skills and combat power from the official site, a click away.
@@ -55,7 +55,7 @@ Angel показывает урон вашей группы в AION 2 прямо
 
 - **Метр.** Урон, DPS, лечение и доля каждого игрока, по секундам и по умениям. Бои с боссами сохраняются, с лучшим временем на каждом боссе подземелья.
 - **Оверлей.** Поверх игры и не мешает: полоски группы в бою с отметкой вашего рекорда, души пета во время фарма, противник и шанс на победу в PvP.
-- **Тесты DPS.** Бейте тренировочную куклу — бой сохранится как тест; задайте длину (1–5 мин), и он закончится секунда в секунду, а рядом будет ваш рекорд на этой кукле.
+- **Тесты DPS.** Бейте тренировочную куклу — бой сохранится как тест; задайте длину (1–5 мин), и он закончится секунда в секунду, а рядом будет ваш рекорд на этой кукле и ваш DPS на 30 с, 1, 2… 5 мин под полосками.
 - **PvP.** Каждый бой, который закончился смертью, сохраняется: как он шёл, размен за разменом, и ключевые моменты.
 - **События, петы и кубы.** Таймеры событий, коллекция петов с местами, где падают души, и радар скрытых кубов.
 - **Профили.** Снаряжение, умения и боевая сила игрока с официального сайта — в один клик.
