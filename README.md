@@ -37,7 +37,7 @@ If Windows SmartScreen stops it, choose **More info → Run anyway**: the exe is
 
 ## Updates
 
-Angel checks this page's latest release as it starts and every few hours, and installs a new version only when you say so (Settings → Updates). Every exe here is signed: before it replaces itself, Angel checks the download's SHA-256 and its Ed25519 signature against the key built into it, and refuses anything else. What changed is on the [releases page](https://github.com/nokttsu/angel-releases/releases) and in Angel after an update.
+Angel checks this page's latest release as it starts, every 5 minutes and when you switch to it, and installs a new version only when you say so (Settings → Updates). Every exe here is signed: before it replaces itself, Angel checks the download's SHA-256 and its Ed25519 signature against the key built into it, and refuses anything else. What changed is on the [releases page](https://github.com/nokttsu/angel-releases/releases) and in Angel after an update.
 
 ## How it works
 
@@ -72,7 +72,7 @@ Angel показывает урон вашей группы в AION 2 прямо
 
 ### Обновления
 
-Angel проверяет последний релиз на этой странице при запуске и раз в несколько часов, а новую версию ставит, только когда вы скажете (Настройки → Обновления). Каждый exe здесь подписан: перед заменой Angel сверяет SHA-256 и подпись Ed25519 со встроенным ключом и отказывается от всего остального. Что изменилось — на [странице релизов](https://github.com/nokttsu/angel-releases/releases) и в самом Angel после обновления.
+Angel проверяет последний релиз на этой странице при запуске, каждые 5 минут и когда вы переключаетесь на него, а новую версию ставит, только когда вы скажете (Настройки → Обновления). Каждый exe здесь подписан: перед заменой Angel сверяет SHA-256 и подпись Ed25519 со встроенным ключом и отказывается от всего остального. Что изменилось — на [странице релизов](https://github.com/nokttsu/angel-releases/releases) и в самом Angel после обновления.
 
 ### Как это работает
 
